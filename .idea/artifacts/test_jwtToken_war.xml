@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="test-jwtToken:war">
+    <output-path>$PROJECT_DIR$/../test-jwtToken/target</output-path>
+    <root id="archive" name="test-jwtToken-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="test-jwtToken:war exploded" />
+    </root>
+  </artifact>
+</component>
